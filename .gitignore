@@ -10,7 +10,6 @@ node_modules/
 
 # production
 /build
-public
 Config/
 # misc
 .DS_Store
